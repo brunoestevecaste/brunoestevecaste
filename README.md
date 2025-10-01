@@ -2,13 +2,13 @@
 
 ---
 
-Passionate about data, advanced analytics, and artificial intelligence, I combine strategic business vision with strong technical expertise in data science and AI.
+👋 Just a data & AI enthusiast who loves turning numbers into value.
 
-Graduated in **Business Intelligence & Analytics 📈** from the University of Valencia, with training across statistics, economics, finance, marketing, IT, and law, as well as skills in Big Data, data mining, predictive analytics, databases, and data warehousing.
+- 🎓 Graduated in **Business Intelligence & Analytics** and currently diving deeper into **Artificial Intelligence** (ML, DL, Generative AI, MLOps & more).  
 
-Currently pursuing a Master’s in **Artificial Intelligence 🤖**, focused on Machine Learning, Deep Learning, Generative AI, and MLOps, with hands-on experience in Python, SQL, Docker, Git, and cloud deployment (GCP), while emphasizing Responsible AI.
+- 💼 Working as a **Data Analyst** at the University of Valencia with the **Spanish Data Protection Agency (AEPD)**.  
 
-Professionally, I work as a Data Analyst at the University of Valencia in collaboration with the **Spanish Data Protection Agency (AEPD) 🔒**.
+- ⚽ Big fan of football & 🎶 music keeps me inspired.  
 
 ---
 
