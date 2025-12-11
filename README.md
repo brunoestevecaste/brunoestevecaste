@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=28&pause=1000&color=FFD299&width=435&lines=Hi,+There!+👋;This+is+Bruno+Esteve....;Loading+new+ideas...+⏳💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=28&pause=1000&color=DD4D4D&width=435&lines=Hi,+There!+👋;This+is+Bruno+Esteve....;Loading+new+ideas...+⏳💡)](https://git.io/typing-svg)
 
 ---
 
