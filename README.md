@@ -14,5 +14,13 @@
 
 ### 📫 Reach me on 
 
-[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/bruno-esteve-castellano)  [![Email](https://img.icons8.com/color/96/000000/gmail.png)](mailto:bresca@edem.es)
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-esteve-castellano" target="_blank">
+    <img src="https://api.iconify.design/ph/linkedin-logo.svg?color=%23ffce81" alt="LinkedIn" width="32" height="32" />
+  </a>
+  &nbsp; 
+  <a href="mailto:bresca@edem.es">
+    <img src="https://api.iconify.design/ph/envelope.svg?color=%23ffce81" alt="Email" width="32" height="32" />
+  </a>
+</p>
 
