@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Damion&size=32&pause=1000&color=D4A363&background=FF000000&width=435&lines=HI%2C+THERE!+;THIS+IS+BR1...;LOADING+NEW+IDEAS...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Damion&size=32&pause=1000&color=D4A363&background=FF000000&width=435&lines=The+Art+of+Analytics.;Sculpting+Raw+Data...;Into+Beautiful+Insights.)](https://git.io/typing-svg)
 
 ---
 
